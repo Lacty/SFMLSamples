@@ -1,0 +1,3 @@
+C:/Users/Yanai/Desktop/SFMLSamples/PortIsOpen/vs2015/CMakeFiles/ALL_BUILD.dir
+C:/Users/Yanai/Desktop/SFMLSamples/PortIsOpen/vs2015/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Yanai/Desktop/SFMLSamples/PortIsOpen/vs2015/src/CMakeFiles/PortIsOpen.dir
